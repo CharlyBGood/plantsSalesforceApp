@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Species_Highlights</fullName>
+    <fields>Name</fields>
+    <fields>Type__c</fields>
+    <fields>Plants_Stock__c</fields>
+    <fields>Ideal_Max_Temperature__c</fields>
+    <label>Species Highlights</label>
+</CompactLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Species_Record_Type</fullName>
+    <active>true</active>
+    <label>Species Record Type</label>
+    <picklistValues>
+        <picklist>Location__c</picklist>
+        <values>
+            <fullName>Indoor</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Outdoor</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Type__c</picklist>
+        <values>
+            <fullName>Edible</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Ornamental</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
